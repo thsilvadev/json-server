@@ -14,7 +14,7 @@
     },
     {
       "nome": "Abreu",
-      "turno": "noite",
+      "turno": "manha",
       "categoria": "B e C",
       "id": 3
     },
@@ -29,6 +29,12 @@
       "id": 5,
       "turno": "manha",
       "categoria": "D e E"
+    },
+    {
+      "nome": "Toreto",
+      "turno": "noite",
+      "categoria": "A",
+      "id": 6
     }
   ],
   "alunos": [
@@ -46,9 +52,9 @@
     },
     {
       "nome": "Tayana",
-      "idade": 22,
-      "id": 3,
-      "pago": true
+      "idade": 23,
+      "pago": true,
+      "id": 3
     },
     {
       "nome": "Kauã",
@@ -79,11 +85,11 @@
     {
       "modelo": "Accelo",
       "marca": "Mereces-Benz",
-      "ano": "2018",
-      "quilometragem": 20342,
+      "ano": 2018,
+      "quilometragem": 22411,
       "categoria": "C",
-      "id": 3,
-      "foto": ""
+      "foto": "",
+      "id": 3
     },
     {
       "modelo": "Volare V6",
