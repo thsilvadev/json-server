@@ -1,0 +1,116 @@
+{
+  "instrutores": [
+    {
+      "nome": "Carlos",
+      "turno": "manhã",
+      "categoria": "A",
+      "id": 1
+    },
+    {
+      "nome": "Fernanda",
+      "turno": "tarde",
+      "categoria": "B e C",
+      "id": 2
+    },
+    {
+      "nome": "Abreu",
+      "turno": "noite",
+      "categoria": "B e C",
+      "id": 3
+    },
+    {
+      "nome": "Juscelino",
+      "turno": "noite",
+      "categoria": "D e E",
+      "id": 4
+    },
+    {
+      "nome": "Jefferson",
+      "id": 5,
+      "turno": "manha",
+      "categoria": "D e E"
+    }
+  ],
+  "alunos": [
+    {
+      "nome": "Thiago",
+      "idade": 26,
+      "id": 1,
+      "pago": false
+    },
+    {
+      "nome": "Leticia",
+      "idade": 25,
+      "id": 2,
+      "pago": true
+    },
+    {
+      "nome": "Tayana",
+      "idade": 22,
+      "id": 3,
+      "pago": true
+    },
+    {
+      "nome": "Kauã",
+      "idade": 19,
+      "id": 4,
+      "pago": true
+    }
+  ],
+  "veiculos": [
+    {
+      "modelo": "Fox",
+      "marca": "Volkswagen",
+      "ano": "2017",
+      "quilometragem": 11342,
+      "categoria": "B",
+      "id": 1,
+      "foto": ""
+    },
+    {
+      "modelo": "CG 160",
+      "marca": "Honda",
+      "ano": "2017",
+      "quilometragem": 19336,
+      "categoria": "A",
+      "id": 2,
+      "foto": ""
+    },
+    {
+      "modelo": "Accelo",
+      "marca": "Mereces-Benz",
+      "ano": "2018",
+      "quilometragem": 20342,
+      "categoria": "C",
+      "id": 3,
+      "foto": ""
+    },
+    {
+      "modelo": "Volare V6",
+      "marca": "Marcopolo",
+      "ano": "2015",
+      "quilometragem": 35837,
+      "categoria": "D",
+      "id": 4,
+      "foto": ""
+    },
+    {
+      "modelo": "Baú",
+      "marca": "Facchini",
+      "ano": "2012",
+      "quilometragem": 54277,
+      "categoria": "E",
+      "id": 5,
+      "foto": ""
+    },
+    {
+      "modelo": "Gol",
+      "marca": "Volkswagen",
+      "ano": "2018",
+      "quilometragem": 16789,
+      "categoria": "B",
+      "id": 6,
+      "foto": ""
+    }
+  ]
+}
